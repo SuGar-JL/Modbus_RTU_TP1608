@@ -1,0 +1,24 @@
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.Properties.Resources.resources
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.csproj.GenerateResource.Cache
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.exe.config
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.exe
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\ModbusRtu.pdb
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\NModbus4.dll
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\bin\Debug\NModbus4.xml
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.Form1.resources
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.exe
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.pdb
+C:\Users\pandefu\documents\visual studio 2013\Projects\ModbusTcp\ModbusRtu\obj\Debug\ModbusRtu.csprojResolveAssemblyReference.cache
+E:\迅雷下载\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.exe.config
+E:\迅雷下载\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.exe
+E:\迅雷下载\ModbusDemo\ModbusRtu\bin\Debug\ModbusRtu.pdb
+E:\迅雷下载\ModbusDemo\ModbusRtu\bin\Debug\NModbus4.dll
+E:\迅雷下载\ModbusDemo\ModbusRtu\bin\Debug\NModbus4.xml
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csprojAssemblyReference.cache
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.Form1.resources
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.Properties.Resources.resources
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.GenerateResource.cache
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.CoreCompileInputs.cache
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.csproj.CopyComplete
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.exe
+E:\迅雷下载\ModbusDemo\ModbusRtu\obj\Debug\ModbusRtu.pdb
